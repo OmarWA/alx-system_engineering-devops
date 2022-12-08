@@ -1,0 +1,1 @@
+This directory contains Bash scripts that carry out basic (elementary) tasks.
