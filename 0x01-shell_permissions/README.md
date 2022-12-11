@@ -1,0 +1,1 @@
+This directory contains bash scripts that manipulate files/directories permissions.
