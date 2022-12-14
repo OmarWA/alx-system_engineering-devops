@@ -1,0 +1,1 @@
+This directory hosts Bash scripts that redirects shell commands inputs and outputs.
