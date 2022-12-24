@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c 1 | cut -d $'\n' -f 1- --output-delimiter '\0' | tr -c '[:upper:]' '0'
+cut -c 1 | cut -d $'\n' -f 1- --output-delimiter '' | tr -c '[:upper:]' '1' | tr "11" $'\n' | tr -d '1' 
