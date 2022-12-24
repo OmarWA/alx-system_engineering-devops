@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c 1 | cut -d $'\n' -f 1- --output-delimiter '' | tr -s
+cut -c 1 | cut -d $'\n' -f 1- --output-delimiter '' | cat -E
