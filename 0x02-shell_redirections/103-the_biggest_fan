@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -f 1 | sort --parallel 1000000 -u | uniq -D  #| uniq | head -l 11
+cut -f 1 | sort --parallel 1000000 -u | uniq -d  #| uniq | head -l 11
