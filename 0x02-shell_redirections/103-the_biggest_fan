@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -f 1 | sort  | uniq -c | sort -nr |  head -n -1 | head -n 11 | rev |  cut -d " " -f 2 --output-delimiter $'\n' | rev
+cut -f 1 | sort  | uniq -c | sort -nr |  head -n -1 | head -n 11 | rev |  cut -d " " -f 1 --output-delimiter $'\n' | rev
