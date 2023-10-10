@@ -1,0 +1,1 @@
+These are the bash scripts that attempt the first project 0x00.
