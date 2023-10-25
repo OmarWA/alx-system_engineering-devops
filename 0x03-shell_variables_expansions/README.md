@@ -1,0 +1,1 @@
+This is where I attempt Holberton's bash projects the are concerned with expansions and variables.
